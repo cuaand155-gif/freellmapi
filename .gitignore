@@ -22,6 +22,8 @@ server/data/
 # Personal deployment scripts (contain keys/credentials — kept local)
 deploy-pi.sh
 update-hermes.sh
+run-freellmapi.sh
+launchd.log
 
 # Monetization planning — private, never committed
 monetization/
